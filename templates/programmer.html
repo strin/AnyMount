@@ -2,18 +2,134 @@
 
 <head>
   <script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="akjl1mileaft6w1"></script>
+
+  <link href="{{url_for('static', filename='css/iconFont.css') }}" rel="stylesheet">
+  <link href="{{url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+  <link href="{{url_for('static', filename='css/metro-bootstrap.css') }}" rel="stylesheet" >
+  <link href="{{url_for('static', filename='css/metro-bootstrap-responsive.css') }}" rel="stylesheet">
+  <link href="{{url_for('static', filename='css/bootstrap-slider.css') }}" rel="stylesheet">
   <script src="{{url_for('static', filename='js/jquery/jquery-2.1.3.js') }}"></script>
   <script src="{{url_for('static', filename='js/jquery/jquery.widget.min.js') }}"></script>
+  <script src="{{url_for('static', filename='js/metro/metro.min.js') }}"></script>
+  <script src="{{url_for('static', filename='js/bootstrap/bootstrap-slider.js') }}"></script>
 </head>
 
 <body>
-  <div id="container">
+  <script>
+  // basic functions.
+  function write_cloud_logo(name) {
+    if(name == "dropbox") {
+      document.write("<img src={{url_for('static', filename='img/dropbox.png')}} width='32px'></img>");
+    }
+  }
+
+  function toggle_element(id) {
+    if($(id).css('display') == 'none') {
+      toggle_on(id);
+    }else{
+      toggle_off(id);
+    }
+  }
+
+  function toggle_on(id) {
+    if($(id).css('display') == 'none') {
+      $(id).slideDown('slow');
+      // $(id).css('display', 'block');
+    }
+  }
+
+  function toggle_off(id) {
+    if($(id).css('display') == 'block') {
+      $(id).slideUp('slow');
+      // $(id).css('display', 'none');
+    }
+  }
+  </script>
+
+  <div class="panel panel-default">
+    <!-- Default panel contents -->
+    <div class="panel-heading">Programer View</div>
+    <div class="panel-body">
+      <p>Choose and mount resources.</p>
+    </div>
+    <!-- Table -->
+    <table class="table">
+      <thead>
+        <tr>
+          <td>Cloud</td>
+          <td>From</td>
+          <td>To</td>
+          <td>Mounted?</td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><script>write_cloud_logo("dropbox")</script></td>
+          <td>
+             <div class="btn-group">
+              <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+              Action
+              <span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu">
+                <li><a href="/app/1">Item A</a></li>
+                <li><a href="/app/2">Item B</a></li>
+                <li><a href="/app/3">Item C</a></li>
+              </ul>
+             </div>
+          </td>
+          <td>/model</td>
+          <td><input type="checkbox"></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <br><button type="button" class="btn btn-default btn-lg" onclick="javascript:toggle_element('#container')">
+    <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> New Mount
+  </button>
+
+  <div id="container" style="display:none;">
+    <table class="table">
+      <thead>
+        <tr>
+          <td>Cloud</td>
+          <td>From</td>
+          <td>To</td>
+          <td>Action</td>
+        </tr>
+      </thead>
+      <tbody>
+        <td style="width: 25%">
+          <div id="choser">
+          </div>
+        </td>
+        <td style="width: 25%">
+          <ul class="list-group" id="new_names">
+          </ul>
+        </td>
+        <td style="width: 25%">
+          <input type="text" class="form-control" id="mount_dir">
+        </td>
+        <td>
+          <button type="button" class="btn btn-default btn-lg" onclick="javascript:create_mount();">
+            Create
+          </button>
+        </td>
+      </tbody>
+    </table>    
   </div>
   <script>
       options = {
         // Required. Called when a user selects an item in the Chooser.
         success: function(files) {
-
+          new_links = [];
+          new_names = [];
+          for(var i = 0; i < files.length; i++) {
+            new_links.push(files[i].link);
+            new_names.push(files[i].name);
+            $('#new_names').append('<li class="list-group-item">'+files[i].name+'</li>')
+          }
         },
 
         // Optional. Called when the user closes the dialog without selecting a file
@@ -28,8 +144,25 @@
         linkType: "preview", // or "direct"
         multiselect: true
     };
+
+
+    function create_mount() {
+      var mount_dir = $('#mount_dir').val();
+      console.log('mount_dir = ' + mount_dir);
+      console.log('names = ' + new_names);
+      console.log('links = ' + new_links);
+      $.post('/createmount', {dir: JSON.stringify(mount_dir),
+                            names: JSON.stringify(new_names),
+                            links: JSON.stringify(new_links)
+        }).done(function(data) {
+        toggle_element('#container');
+        new_links = [];
+        new_names = [];
+      });
+    }
+
     var button = Dropbox.createChooseButton(options);
-    document.getElementById("container").appendChild(button);
+    document.getElementById("choser").appendChild(button);
   </script>
 </body>
 

@@ -1,0 +1,5 @@
+# python executables
+*.pyc
+
+# mac osx
+.DS_STORE

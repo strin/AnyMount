@@ -5,7 +5,7 @@ When people release code, they would also like to publish related resources (dat
 
 Design
 ---------
-At the core of AnyMount is a <b>key-value database</b> that maps a remote resource (such as namespaces at Dropbox) to a local directory. For example, we can link a Dropbox shared folder to some sub-directory in the codebase. 
+At the core of AnyMount is a relational database that maps a remote resource (such as namespaces at Dropbox) to a local directory. For example, we can link a Dropbox shared folder to some sub-directory in the codebase. 
 
 ```
 https://www.dropbox.com/sh/47u1spt3cxj33zs/AABbw9B7tQevqWb14TQR939Pa?dl=0 
@@ -21,6 +21,13 @@ Programmers can add key-value pairs to the database. AnyMount automatically take
 
 Users can see the list of resources available to mount under the directory, and their dependency relationships. 
 
+
+Dependency
+----------
+
+```
+pip install dropbox
+```
 
 Q & A
 -----

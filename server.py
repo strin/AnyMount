@@ -18,17 +18,18 @@ db.load()
 @app.route("/programmer")
 def programmer():
     try:
-        return render_template('programmer.html')
+        return render_template('programmer.html', mounts=db.mounts)
     except Exception as e:
         print "error:", e
 
 def open_webbrowser():
     webbrowser.open('http://127.0.0.1:8080/programmer')
 
-@app.route('/createmount', methods=['POST']) 
-def mount_dir():
+@app.route('/create_mount', methods=['POST']) 
+def create_mount():
   try:
     path = request.form['dir'].decode('utf-8')
+    path = json.loads(path)
 
     names = request.form['names'].decode('utf-8')
     names = json.loads(names)
@@ -41,11 +42,24 @@ def mount_dir():
     db.mount(mnt)
     db.save()
 
-    return jsonify(response='ok')
+    return jsonify(status='ok')
   except Exception as e:
     print "error:", e
 
+@app.route('/delete_mount', methods=['POST']) 
+def delete_mount():
+  try:
+    print 'id', request.form['id']
+    remove_id = int(request.form['id'])
+    db.unmount(remove_id)
+    db.save()
+
+    return jsonify(status='ok')
+  except Exception as e:
+    print "error:", e
+
+
 if __name__ == "__main__":
     thread = threading.Thread(target = open_webbrowser)
-    thread.start()
+    # thread.start()
     app.run('127.0.0.1', port=8080)

@@ -59,28 +59,30 @@
           <td>Cloud</td>
           <td>From</td>
           <td>To</td>
-          <td>Mounted?</td>
+          <td>Action</td>
         </tr>
       </thead>
       <tbody>
+        {%for id in range(mounts|count)%}
         <tr>
-          <td><script>write_cloud_logo("dropbox")</script></td>
           <td>
-             <div class="btn-group">
-              <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
-              Action
-              <span class="caret"></span>
-              </a>
-              <ul class="dropdown-menu">
-                <li><a href="/app/1">Item A</a></li>
-                <li><a href="/app/2">Item B</a></li>
-                <li><a href="/app/3">Item C</a></li>
-              </ul>
-             </div>
+            <script>write_cloud_logo("dropbox")</script>
           </td>
-          <td>/model</td>
-          <td><input type="checkbox"></td>
+          <td>
+            <ul>
+            {%for i in range(mounts[id].names|count)%}
+              <li><a href="{{mounts[id].links[i]}}">{{mounts[id].names[i]}}</a></li>
+            {%endfor%}
+            </ul>
+          </td>
+          <td>
+            {{mounts[id].path}}
+          </td>
+          <td>
+            <a class="btn btn-danger" type="button" href="javascript:delete_mount({{id}});">Delete</a>
+          </td>
         </tr>
+        {%endfor%}
       </tbody>
     </table>
   </div>
@@ -151,13 +153,22 @@
       console.log('mount_dir = ' + mount_dir);
       console.log('names = ' + new_names);
       console.log('links = ' + new_links);
-      $.post('/createmount', {dir: JSON.stringify(mount_dir),
+      $.post('/create_mount', {dir: JSON.stringify(mount_dir),
                             names: JSON.stringify(new_names),
                             links: JSON.stringify(new_links)
         }).done(function(data) {
-        toggle_element('#container');
-        new_links = [];
-        new_names = [];
+        if(data.status == 'ok') {
+          location.reload();
+        }
+      });
+    }
+
+    function delete_mount(i) {
+      $.post('/delete_mount', {id: JSON.stringify(i)}).done(function(data) {
+        console.log(data);
+        if(data.status == 'ok') {
+          location.reload();
+        }
       });
     }
 

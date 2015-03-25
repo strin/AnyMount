@@ -1,0 +1,2322 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mount",
+				"mountdb〔module〕"
+			],
+			[
+				"d",
+				"database"
+			],
+			[
+				"make_raw",
+				"make_raw_links〔function〕"
+			],
+			[
+				"to",
+				"toggle_element(id)	programmer.html"
+			],
+			[
+				"new_",
+				"new_names"
+			],
+			[
+				"for",
+				"forest〔variable〕"
+			],
+			[
+				"entr",
+				"entries"
+			],
+			[
+				"param",
+				"parameters_product〔variable〕"
+			],
+			[
+				"num_da",
+				"num_data_pos"
+			],
+			[
+				"proce",
+				"process"
+			],
+			[
+				"hoo",
+				"hooks"
+			],
+			[
+				"prin",
+				"printSnapshot"
+			],
+			[
+				"order",
+				"orderset"
+			],
+			[
+				"prob",
+				"prob_modify"
+			],
+			[
+				"prob_",
+				"prob_delete"
+			],
+			[
+				"quan",
+				"quantity_dic"
+			],
+			[
+				"pri",
+				"price_dic"
+			],
+			[
+				"FeedQ",
+				"FeedQueueImpl"
+			],
+			[
+				"handl",
+				"handle_type"
+			],
+			[
+				"thean",
+				"theano"
+			],
+			[
+				"n_hi",
+				"n_hidden_q"
+			],
+			[
+				"theano",
+				"theanofunc"
+			],
+			[
+				"logp",
+				"logpx"
+			],
+			[
+				"el",
+				"elapsed"
+			],
+			[
+				"sele",
+				"selected3	main.html"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"value",
+				"valueChange()	main.html"
+			],
+			[
+				"chain_en",
+				"chain_end_hidden"
+			],
+			[
+				"convert",
+				"convert_to_ind"
+			],
+			[
+				"conver",
+				"convert_to_ind"
+			],
+			[
+				"initi",
+				"initial_W"
+			],
+			[
+				"zero",
+				"zeros_like"
+			],
+			[
+				"Ckt_",
+				"Ckt_test_sum"
+			],
+			[
+				"zbar",
+				"zbar_row"
+			],
+			[
+				"iZ",
+				"iZ_test"
+			],
+			[
+				"Zbar",
+				"Zbar"
+			],
+			[
+				"label",
+				"labels"
+			],
+			[
+				"pa",
+				"pamedlda"
+			],
+			[
+				"test",
+				"testData"
+			],
+			[
+				"Corpus",
+				"CorpusData"
+			],
+			[
+				"pamed",
+				"pamedlda"
+			],
+			[
+				"paM",
+				"paMedLDAgibbsWrapper"
+			],
+			[
+				"test_make",
+				"test_makeVector2D"
+			],
+			[
+				"makeVe",
+				"makeVector2D"
+			],
+			[
+				"make",
+				"make_shared"
+			],
+			[
+				"pame",
+				"paMedLDAgibbsWrapper"
+			],
+			[
+				"pameld",
+				"pamedlda"
+			],
+			[
+				"sample",
+				"samples"
+			],
+			[
+				"true",
+				"trueMeans"
+			],
+			[
+				"sampl",
+				"sampleCountsList"
+			],
+			[
+				"cui",
+				"cuisineList"
+			],
+			[
+				"trueMe",
+				"trueMeansList"
+			],
+			[
+				"recor",
+				"recordList"
+			],
+			[
+				"sampleBy",
+				"sampleByRow"
+			],
+			[
+				"arti",
+				"articles	controllers.js"
+			],
+			[
+				"art",
+				"article_id	tab-dash.html"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"rec",
+				"recommend"
+			],
+			[
+				"gNum",
+				"gNumArticle"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"extract",
+				"extractStrs(str)	visualizeNER.html"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"Model",
+				"ModelCRFGibbs"
+			],
+			[
+				"compute",
+				"computeSc"
+			],
+			[
+				"reward",
+				"rewardK"
+			],
+			[
+				"rew",
+				"rewardK"
+			],
+			[
+				"ORA",
+				"ORACLEv"
+			],
+			[
+				"featop",
+				"featoptFind(string feat)	bool"
+			],
+			[
+				"insert",
+				"insertFeature"
+			],
+			[
+				"max",
+				"maxdepth"
+			],
+			[
+				"getElem",
+				"getElementsByTagName('aSome')"
+			],
+			[
+				"getEle",
+				"getElementsByTagName('aSome')"
+			],
+			[
+				"NER_DIS",
+				"NER_DISAGREE_L"
+			],
+			[
+				"NER_",
+				"NER_DISAGREE_R"
+			],
+			[
+				"ora",
+				"ORACLE_ENT"
+			],
+			[
+				"orac",
+				"oracle-ent"
+			],
+			[
+				"OR",
+				"ORACLE"
+			],
+			[
+				"num",
+				"num_tags"
+			],
+			[
+				"ORAL",
+				"ORACLE_ENT"
+			],
+			[
+				"inset",
+				"insertFeature"
+			],
+			[
+				"getL",
+				"getLabel"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"inser",
+				"insertFeature"
+			],
+			[
+				"verbos",
+				"verbosity"
+			],
+			[
+				"uni",
+				"unigram"
+			],
+			[
+				"NB_ENT",
+				"NB_ENT__COND"
+			],
+			[
+				"feat_nb",
+				"feat_nb_ent__cond"
+			],
+			[
+				"NB_EN",
+				"NB_ENT__COND"
+			],
+			[
+				"un",
+				"unordered_map"
+			],
+			[
+				"Polic",
+				"PolicyExample"
+			],
+			[
+				"Mark",
+				"MarkovTreeNodePtr	typedef"
+			],
+			[
+				"MarkovT",
+				"MarkovTreeNodePtr"
+			],
+			[
+				"NER_DI",
+				"NER_DISAGREE_R"
+			],
+			[
+				"inv",
+				"invMarkovBlanket"
+			],
+			[
+				"Markov",
+				"MarkovBlanketGet	typedef"
+			],
+			[
+				"update",
+				"updateRespByHandle"
+			],
+			[
+				"featOpt",
+				"featoptFind(string feat)	bool"
+			],
+			[
+				"wall",
+				"wallclock_policy"
+			],
+			[
+				"wallclock",
+				"wallclock_sample"
+			],
+			[
+				"clock_",
+				"clock_start	clock_t"
+			],
+			[
+				"max_l",
+				"max_log_prior_weight"
+			],
+			[
+				"entrop",
+				"entropy_unigram"
+			],
+			[
+				"featO",
+				"featoptFind"
+			],
+			[
+				"Inst",
+				"Instance"
+			],
+			[
+				"Ins",
+				"InstanceOpenGM"
+			],
+			[
+				"Graph",
+				"GraphicalModelType"
+			],
+			[
+				"CorpusO",
+				"CorpusOpenGM"
+			],
+			[
+				"cor",
+				"CorpusOpenGM"
+			],
+			[
+				"gibb",
+				"gibbs_anneal"
+			],
+			[
+				"Infere",
+				"InferenceTermination"
+			],
+			[
+				"Graphi",
+				"GraphicalModel"
+			],
+			[
+				"Movemake",
+				"MovemakerType"
+			],
+			[
+				"move",
+				"Movemaker"
+			],
+			[
+				"Mod",
+				"ModelCRFGibbs"
+			],
+			[
+				"G",
+				"GraphicalModel"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"shared_",
+				"shared_from_this"
+			],
+			[
+				"FeatureEx",
+				"FeatureExtractOne"
+			],
+			[
+				"gr",
+				"GraphicalModel"
+			],
+			[
+				"signal",
+				"signals"
+			],
+			[
+				"extractFe",
+				"extractFeatures"
+			],
+			[
+				"FeatureExt",
+				"FeatureExtractAll"
+			],
+			[
+				"Feature",
+				"FeatureExtractOne"
+			],
+			[
+				"verbo",
+				"verbose_opt"
+			],
+			[
+				"ver",
+				"verbose_opt"
+			],
+			[
+				"extractI",
+				"extractIsingBigram"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.py",
+			"settings":
+			{
+				"buffer_size": 1147,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/mountdb.py",
+			"settings":
+			{
+				"buffer_size": 1401,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloud/dropbox.py",
+			"settings":
+			{
+				"buffer_size": 257,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/programmer.html",
+			"settings":
+			{
+				"buffer_size": 5305,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/strin/Garage/POI/templates/main.html",
+			"settings":
+			{
+				"buffer_size": 11189,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/strin/Garage/POI/server.py",
+			"settings":
+			{
+				"buffer_size": 2119,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"makr",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"md",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"python",
+				"SublimeREPL: Python"
+			],
+			[
+				"json rein",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"json re",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"csv",
+				"CSV: Compact columns"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"RESML ",
+				"SublimeREPL: SML"
+			],
+			[
+				"sml",
+				"Set Syntax: SML"
+			],
+			[
+				"marko",
+				"Set Syntax: Markdown"
+			],
+			[
+				"book",
+				"Bookmarks: Select All"
+			],
+			[
+				"in",
+				"Indent XML"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"ind",
+				"Indent XML"
+			],
+			[
+				"inden",
+				"Indent XML"
+			],
+			[
+				"indent",
+				"Indent XML"
+			],
+			[
+				"xmllin",
+				"XML Lint: Show Error List"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimeclang",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"shell",
+				"SublimeREPL: Shell"
+			],
+			[
+				"sublime",
+				"SublimeREPL: Python"
+			],
+			[
+				"clear",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"cle",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"clear c",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"clea",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"sublimecla",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"clearc",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"subliman",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"clang",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"clear ca",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"sublimecl",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"Sublimeclang",
+				"Preferences: SublimeClang Settings – User"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/strin/Hacking/AnyMount/server.py",
+		"/Users/strin/Hacking/AnyMount/cloud/__init__.py",
+		"/Volumes/Universe/Research/AdaInfer/HeteroSampler/CMakeLists.txt",
+		"/Volumes/Universe/kaggle/kaggle-bagofwords/test_random_forest.py",
+		"/Volumes/Universe/Research/AdaInfer/HeteroSampler/baseline/structure-compilation/space/BatchLearner.java",
+		"/Volumes/Universe/kaggle/kaggle-bagofwords/gml.py",
+		"/Volumes/Universe/kaggle/kaggle-bagofwords/medlda_utils.py",
+		"/Volumes/Universe/kaggle/kaggle-bagofwords/feat.py",
+		"/Volumes/Universe/kaggle/kaggle-bagofwords/BayesPA/test/test.py",
+		"/Volumes/Universe/kaggle/kaggle-bagofwords/BayesPA/setup.py",
+		"/Users/strin/OneDrive/Learn/python/line_profile/ica_test.py",
+		"/Users/strin/Garage/ml/ica.py",
+		"/Volumes/Autosky/2015/What can we learn - Devin",
+		"/Volumes/Universe/kaggle/kaggle-bagofwords/data/unlabeledTrainData.tsv",
+		"/Volumes/Universe/kaggle/kaggle-bagofwords/data/stopwords.txt",
+		"/Volumes/PLDI2014/risley250_key",
+		"/Volumes/Universe/kaggle/kaggle-bagofwords/bag_of_words_random_forest.csv",
+		"/Volumes/Universe/kaggle/kaggle-bagofwords/data/sampleSubmission.csv",
+		"/Users/strin/Desktop/schedule.csv",
+		"/Users/strin/Desktop/schedule/schedule.py",
+		"/Users/strin/Desktop/Problem/Trading/inc/feedexception.h",
+		"/Users/strin/Desktop/Problem/Trading/inc/feedhandler.h",
+		"/Volumes/Universe/Research/CorrCS/writeup/sync.sh",
+		"/Users/strin/Desktop/Problem/Trading/inc/feedqueue.h",
+		"/Users/strin/Desktop/Problem/Trading/inc/feedhelper.h",
+		"/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/venture/unit/venture_unit.py",
+		"/Users/strin/OneDrive/Book/Machine Learning/level 1 - basics/ESL Exercise/12.3.4 SVM and Curse of Dimensionality/svmdim.py",
+		"/Users/strin/Garage/Venturecxx2/examples/hmc-demo.py",
+		"/Users/strin/Garage/Venturecxx2/examples/hmm-demo.py",
+		"/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/venture/unit/utils.py",
+		"/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/venture/unit/history.py",
+		"/Volumes/Universe/Research/CorrCS/tensorcs/sampler.py",
+		"/Volumes/Universe/Research/CorrCS/tensorcs/test_sampler.py",
+		"/Volumes/Universe/Research/CorrCS/tensorcs/test_facebook.py",
+		"/Volumes/Universe/Research/CorrCS/data/paths.py",
+		"/Volumes/Universe/Research/CorrCS/data/table.py",
+		"/Volumes/Universe/Research/CorrCS/data/sampler.py",
+		"/Users/strin/Garage/Venturecxx/examples/hmm-demo.py",
+		"/Users/strin/Garage/Venturecxx/examples/crp-demo.py",
+		"/Users/strin/Garage/Venturecxx/python/lib/unit/venture_unit.py",
+		"/Volumes/Universe/Research/CorrCS/tensorcs/matrixcs.py",
+		"/Volumes/Autosky/2015/2015/Sex Emancipated.txt",
+		"/Volumes/Universe/Movies/Lord.of.the.Rings.1.2.3/The.Lord.Of.The.Rings.The Return of the King.720p.x264.DD5.1-001.cht.srt",
+		"/Volumes/Universe/Movies/Lord.of.the.Rings.1.2.3/The.Lord.Of.The.Rings.The Return of the King.720p.x264.DD5.1-002.cht.srt",
+		"/Volumes/Universe/Movies/Lord.of.the.Rings.1.2.3/The.Lord.Of.The.Rings.The Return of the King.720p.x264.DD5.1-002.cht",
+		"/Volumes/Universe/Movies/Lord.of.the.Rings.1.2.3/delay.py",
+		"/Volumes/Universe/Movies/Lord.of.the.Rings.1.2.3/out2.txt",
+		"/Volumes/Universe/Movies/Lord.of.the.Rings.1.2.3/lord2.txt",
+		"/Users/strin/Desktop/Problem/Trading/data/duplicate_add.txt",
+		"/Users/strin/Desktop/Problem/Trading/data/1.txt",
+		"/Users/strin/Desktop/Problem/Trading/data/sample.txt",
+		"/Users/strin/Desktop/Problem/Trading/exchange-feed.txt",
+		"/Users/strin/Desktop/Problem/Trading/data/gendata.py",
+		"/Users/strin/Desktop/Problem/Trading/main.cpp",
+		"/Users/strin/OneDrive/Affair/contacts/计科10通讯录 - Sheet1.csv",
+		"/Users/strin/Desktop/Problem/Trading/README.md",
+		"/Users/strin/Hacking/Gadgets/batch-calendar/calendar.html",
+		"/Users/strin/Desktop/Problem/Trading/data/corrupted.txt",
+		"/Users/strin/Hacking/Gadgets/batch-calendar/calendar.py",
+		"/Users/strin/Desktop/Problem/Trading/data/sample2.txt",
+		"/Volumes/Universe/Research/AdaInfer/tagging/inc/gm.h",
+		"/Volumes/Universe/Research/AdaInfer/tagging/src/policy.cpp",
+		"/Volumes/Universe/Research/AdaInfer/tagging/inc/blockpolicy.h",
+		"/Users/strin/Desktop/Problem/Trading/inc/bucketqueue.h",
+		"/Volumes/Universe/Research/BayesPA/code release/medlda/OnlineGibbsMedLDA/inc/utils/stl.h",
+		"/Users/strin/Desktop/Problem/Trading/CMakeLists.txt",
+		"/Users/strin/Desktop/Problem/Trading/inc/feedparser.h",
+		"/Volumes/Universe/Research/BayesPA/code release/medlda/OnlineGibbsMedLDA/inc/utils/pyutils.h",
+		"/Volumes/Universe/Research/BayesPA/code release/medlda/OnlineGibbsMedLDA/inc/utils/utils.h",
+		"/Volumes/Universe/Research/BayesPA/code release/medlda/OnlineGibbsMedLDA/CMakeLists.txt",
+		"/Users/strin/Garage/flann-1.8.4-src/src/cpp/flann/flann.cpp",
+		"/Users/strin/Garage/flann-1.8.4-src/src/cpp/CMakeLists.txt",
+		"/Users/strin/Garage/flann-1.8.4-src/src/cpp/flann/mpi/queries.h",
+		"/Users/strin/Garage/flann-1.8.4-src/src/cpp/flann/algorithms/kdtree_index.h",
+		"/Users/strin/Garage/flann-1.8.4-src/src/cpp/flann/util/any.h",
+		"/Users/strin/Garage/flann-1.8.4-src/src/cpp/flann/mpi/flann_mpi_client.cpp",
+		"/Users/strin/Downloads/Lord.of.the.Rings.1.2.3/Lord.of.the.Rings.2.The.Two.Towers.Extended.Edition.720P.H.264.DTS.5.1.part2.cht.srt",
+		"/Users/strin/Downloads/Lord.of.the.Rings.1.2.3/Lord.of.the.Rings.2.The.Two.Towers.Extended.Edition.720P.H.264.DTS.5.1.part2.txt",
+		"/Users/strin/Downloads/Lord.of.the.Rings.1.2.3/temp.txt",
+		"/Users/strin/Downloads/Lord.of.the.Rings.1.2.3/Lord.of.the.Rings.2.The.Two.Towers.Extended.Edition.720P.H.264.DTS.5.1.part1.cht.srt",
+		"/Users/strin/Downloads/Lord.of.the.Rings.1.2.3/temp1",
+		"/Volumes/Universe/Research/DeepBayes/mmdgm/check_cifar_prior.py",
+		"/Users/strin/Downloads/check_cifar_prior.py",
+		"/Volumes/Universe/Research/DeepBayes/nips14-ssl/run_gpulearn_mm_z_x.py",
+		"/Volumes/Universe/Research/DeepBayes/nips14-ssl/run_gpulearn_z_x.py",
+		"/Volumes/Universe/Research/DeepBayes/nips14-ssl/gpulearn_z_x.py",
+		"/Volumes/Universe/Research/DeepBayes/nips14-ssl/pegasos.py",
+		"/Volumes/Universe/Research/DeepBayes/nips14-ssl/data/cifar10_prior/check_cifar_prior.py",
+		"/Volumes/Universe/Research/DeepBayes/mmdgm/pegasos.py",
+		"/Volumes/Universe/Research/AdaInfer/mcmc/swipe/Alignment.java",
+		"/Volumes/Universe/Research/AdaInfer/writeup/figure/visual/ner-f4-visual-gibbs.html",
+		"/Users/strin/Downloads/cm-super/INSTALL",
+		"/Users/strin/Downloads/cm-super/README",
+		"/Volumes/Universe/Research/AdaInfer/writeup/figure/visual/ner-f4-vis-policy-2.html",
+		"/Volumes/Universe/Research/AdaInfer/tagging/visualize/visualizeNER.html",
+		"/Users/strin/Website/index.html",
+		"/Volumes/OCaml 4.00.1/ReadMe.txt",
+		"/Users/strin/百度云同步盘/Affair/contacts/计科10通讯录 - Sheet1.csv",
+		"/Volumes/Universe/Research/AdaInfer/tagging/test/ner/w2/f2/gibbs/default/0/tcall_T1/policy.xml",
+		"/Volumes/Universe/Research/AdaInfer/tagging/test/ner/w2/f2/blockpolicy/sanity/0/tcall_b1/policy.xml",
+		"/Users/strin/Website/css/style.css",
+		"/Users/strin/Website/css/project.css",
+		"/Volumes/Universe/Research/CorrCS/data/GSS/extract_allsamples.py",
+		"/Volumes/Universe/Research/CorrCS/data/GSS/sub-data (1).txt",
+		"/Volumes/Universe/Research/CorrCS/data/GSS/GENDER_ISSUE/gender.txt",
+		"/Users/strin/Downloads/sub-data-7.txt",
+		"/Users/strin/Downloads/sub-data-6.txt",
+		"/Volumes/Universe/Research/CorrCS/data/GSS/INTUSE/intuse.txt",
+		"/Users/strin/Downloads/sub-cdbk-2.txt",
+		"/Users/strin/Downloads/sub-data-4.txt",
+		"/Users/strin/Downloads/sub-cdbk-3.txt",
+		"/Users/strin/Downloads/sub-data-5.txt",
+		"/Users/strin/Downloads/sub-cdbk.txt",
+		"/Users/strin/Downloads/sub-data-3.txt",
+		"/Users/strin/Downloads/ppg/extreme/extreme.cpp",
+		"/Volumes/Universe/Research/CorrCS/data/December-2012--Facebook-(omnibus)/extract_allsamples.py",
+		"/Users/strin/Downloads/sub-data-2.txt",
+		"/Users/strin/Downloads/sub-data.txt",
+		"/Volumes/Universe/Research/CorrCS/data/December-2012--Facebook-(omnibus)/Omnibus_Dec_2012_csv.csv",
+		"/Volumes/Universe/Project/food101/test.py",
+		"/Users/strin/Garage/aiimg server config/README.txt",
+		"/Users/strin/Desktop/config/README.txt",
+		"/Users/strin/Desktop/tmp/z_x/hook.txt",
+		"/Users/strin/Desktop/tmp/mm_z_x/hook.txt",
+		"/Users/strin/Desktop/tmp/hook.txt",
+		"/Volumes/Universe/Research/DeepBayes/code/RBM/rbm.py",
+		"/Volumes/Universe/Research/DeepBayes/nips14-ssl/anglepy/models/__init__.py",
+		"/Volumes/Universe/Research/DeepBayes/code/va/va.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Shelf",
+			"me",
+			"post",
+			"/mount_dir",
+			"toggle",
+			"virtual",
+			"histor",
+			"averagevalue(",
+			"simplecs",
+			"parse",
+			"ostream",
+			"FeedHelper",
+			"book",
+			"heap",
+			"heap->",
+			"handle",
+			"heap",
+			"pegasos_score",
+			"aistats",
+			"truth",
+			"bug",
+			"open sans",
+			"ninj",
+			"heteroge",
+			"papertitle",
+			"'Open Sans', Arial",
+			"x_test",
+			"x['y'",
+			"epoch, t",
+			"ell",
+			"YZ_X",
+			"logpx",
+			"factors",
+			"GPUVAEModel",
+			"rng",
+			"n_y",
+			"ADAM",
+			"    ",
+			"dist_qz",
+			"q_mean",
+			"dist_qz",
+			"models",
+			"models/",
+			"models",
+			"print",
+			"nonlinear_s",
+			"evalandup",
+			"pegasos",
+			"split",
+			"hidden",
+			"gpu",
+			"x_test",
+			"f_dec",
+			"zIndex",
+			"东五号河桥",
+			"合生城邦·上郡",
+			"categroycategory2category2",
+			"selected",
+			"\"",
+			"药保健",
+			"JiaoZiGuan",
+			"category",
+			"ex1",
+			"button",
+			"HEAD",
+			"py",
+			"self.c",
+			"c",
+			"adagrad",
+			"n_sample",
+			"bit_i_idx",
+			"cast",
+			"trace",
+			"lr",
+			"input",
+			"gibbs_hvh",
+			"    ",
+			"load_data",
+			"tile_raster_images",
+			"latent",
+			"mapf",
+			"Cdk_test",
+			"zbar_test",
+			"ckt_test",
+			"ckt",
+			"testData",
+			"draw_z_test",
+			"updatez",
+			"this->",
+			"infer",
+			"_numla",
+			"Cdk_test",
+			"prevZ->Cdk",
+			"Cdk_test",
+			"Zbar_test",
+			"zbar_test",
+			"test_data",
+			"data",
+			"this->data",
+			"this->",
+			"this->data",
+			"invlam",
+			"iZ",
+			"Z->",
+			"iZ",
+			"delete iZ",
+			"data->",
+			"corpus->trainData",
+			"idx[i]",
+			"data",
+			"bp::",
+			"contribute",
+			"adagrad",
+			"	",
+			"train",
+			"papertitle",
+			"font-fam",
+			"papertitle",
+			"Open+Sans",
+			"publication",
+			"project",
+			"chkCompress\nchkCompress",
+			"chkCompress",
+			"length",
+			"for",
+			"    ",
+			"chkCompress",
+			"save"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.py",
+					"settings":
+					{
+						"buffer_size": 1147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								244,
+								244
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "database/mountdb.py",
+					"settings":
+					{
+						"buffer_size": 1401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1346,
+								1350
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 104.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "cloud/dropbox.py",
+					"settings":
+					{
+						"buffer_size": 257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/programmer.html",
+					"settings":
+					{
+						"buffer_size": 5305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5025,
+								5025
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2255.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/Users/strin/Garage/POI/templates/main.html",
+					"settings":
+					{
+						"buffer_size": 11189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9596,
+								9596
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4635.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/strin/Garage/POI/server.py",
+					"settings":
+					{
+						"buffer_size": 2119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								766,
+								770
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 3.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"/Users/strin/Desktop/Problem/Trading/main.cpp"
+			],
+			[
+				"hy",
+				"/Volumes/Universe/Research/ML/BayesPA/code release/OnlineGibbsMedLDA/src/HybridMedLDA.cpp"
+			],
+			[
+				"exp",
+				"/Volumes/Universe/Research/ML/BayesPA/code release/OnlineGibbsMedLDA/experiment.py"
+			],
+			[
+				"cont",
+				"/Users/strin/Hack!/PebbleRead/HackShanghai/ios/www/js/controllers.js"
+			],
+			[
+				"person",
+				"/Users/strin/Hack!/PebbleRead/HackShanghai/ios/www/templates/tab-personal.html"
+			],
+			[
+				"con",
+				"/Users/strin/Hack!/PebbleRead/HackShanghai/ios/www/js/controllers.js"
+			],
+			[
+				"app",
+				"/Users/strin/Hack!/PebbleRead/HackShanghai/ios/www/js/app.js"
+			],
+			[
+				"inde",
+				"/Users/strin/Hack!/PebbleRead/HackShanghai/ios/www/index.html"
+			],
+			[
+				"da",
+				"/Users/strin/Hack!/PebbleRead/HackShanghai/ios/www/templates/tab-dash.html"
+			],
+			[
+				"ser",
+				"/Users/strin/Hack!/PebbleRead/HackShanghai/taste/server.py"
+			],
+			[
+				"dash",
+				"/Users/strin/Hack!/PebbleRead/HackShanghai/ios/www/templates/tab-dash.html"
+			],
+			[
+				"app.j",
+				"/Users/strin/Hack!/PebbleRead/HackShanghai/ios/www/js/app.js"
+			],
+			[
+				"contr",
+				"/Users/strin/Hack!/PebbleRead/HackShanghai/ios/www/js/controllers.js"
+			],
+			[
+				"index",
+				"/Users/strin/Hack!/PebbleRead/HackShanghai/ios/www/temp/bubble/index.html"
+			],
+			[
+				"block",
+				"inc/blockpolicy.h"
+			],
+			[
+				"baseline",
+				"src/baseline.cpp"
+			],
+			[
+				"po",
+				"src/policy.cpp"
+			],
+			[
+				"blo",
+				"inc/blockpolicy.h"
+			],
+			[
+				"b",
+				"inc/blockpolicy.h"
+			],
+			[
+				"bloc",
+				"inc/blockpolicy.h"
+			],
+			[
+				"test_po",
+				"/Volumes/Universe/Research/ML/stanford/AdaMC/tagging/test_policy.cpp"
+			],
+			[
+				"baselin",
+				"src/baseline.cpp"
+			],
+			[
+				"modelc",
+				"src/model.cpp"
+			],
+			[
+				"model",
+				"inc/model.h"
+			],
+			[
+				"baelin",
+				"src/baseline.cpp"
+			],
+			[
+				"corpus",
+				"inc/corpus.h"
+			],
+			[
+				"corpu",
+				"src/corpus.cpp"
+			],
+			[
+				"model.cpp",
+				"src/model.cpp"
+			],
+			[
+				"model.h",
+				"inc/model.h"
+			],
+			[
+				"bae",
+				"src/baseline.cpp"
+			],
+			[
+				"tag.h",
+				"inc/tag.h"
+			],
+			[
+				"tag",
+				"src/tag.cpp"
+			],
+			[
+				"model_o",
+				"inc/model_opengm.h"
+			],
+			[
+				"util",
+				"inc/utils.h"
+			],
+			[
+				"gm.h",
+				"inc/gm.h"
+			],
+			[
+				"model_",
+				"inc/model_opengm.h"
+			],
+			[
+				"ut",
+				"inc/utils.h"
+			],
+			[
+				"p",
+				"inc/policy.h"
+			],
+			[
+				"model_op",
+				"inc/model_opengm.h"
+			],
+			[
+				"blocp",
+				"inc/blockpolicy.h"
+			],
+			[
+				"poli",
+				"inc/policy.h"
+			],
+			[
+				"fea",
+				"src/feature.cpp"
+			],
+			[
+				"uil",
+				"inc/utils.h"
+			],
+			[
+				"baslin",
+				"src/baseline.cpp"
+			],
+			[
+				"tag.cp",
+				"src/tag.cpp"
+			],
+			[
+				"open",
+				"inc/opengm.h"
+			],
+			[
+				"mod",
+				"inc/model.h"
+			],
+			[
+				"opengm",
+				"inc/opengm.h"
+			],
+			[
+				"gm.",
+				"inc/gm.h"
+			],
+			[
+				"blockpo",
+				"inc/blockpolicy.h"
+			],
+			[
+				"mode",
+				"inc/model.h"
+			],
+			[
+				"tag.cpp",
+				"src/tag.cpp"
+			],
+			[
+				"gm",
+				"inc/gm.h"
+			],
+			[
+				"tag.",
+				"inc/tag.h"
+			],
+			[
+				"markov",
+				"src/MarkovTree.cpp"
+			],
+			[
+				"model.cp",
+				"src/model.cpp"
+			],
+			[
+				"test_poli",
+				"/Volumes/Universe/Research/ML/stanford/AdaMC/tagging/test_policy.cpp"
+			],
+			[
+				"u",
+				"inc/utils.h"
+			],
+			[
+				"test_p",
+				"/Volumes/Universe/Research/ML/stanford/AdaMC/tagging/test_policy.cpp"
+			],
+			[
+				"polic",
+				"src/policy.cpp"
+			],
+			[
+				"corp",
+				"inc/corpus_opengm.h"
+			],
+			[
+				"cor",
+				"inc/corpus.h"
+			],
+			[
+				"feae",
+				"src/feature.cpp"
+			],
+			[
+				"feat",
+				"inc/feature.h"
+			],
+			[
+				"basein",
+				"src/baseline.cpp"
+			],
+			[
+				"policy",
+				"src/policy.cpp"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"test_",
+				"/Volumes/Universe/Research/ML/stanford/AdaMC/tagging/test_policy.cpp"
+			],
+			[
+				"test",
+				"/Volumes/Universe/Research/ML/stanford/AdaMC/tagging/test_policy.cpp"
+			],
+			[
+				"cm",
+				"/Volumes/Universe/Research/ML/stanford/AdaMC/tagging/CMakeLists.txt"
+			],
+			[
+				"roj",
+				"/Volumes/Universe/Research/Machine Learning/stanford/mcmc/swipe/project.py"
+			],
+			[
+				"proje",
+				"/Volumes/Universe/Research/Machine Learning/stanford/mcmc/swipe/project.py"
+			],
+			[
+				"run",
+				"/Volumes/Universe/Research/Machine Learning/stanford/mcmc/swipe/run.py"
+			],
+			[
+				"hmc",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/gkernels/hmc.cxx"
+			],
+			[
+				"",
+				"/Volumes/Universe/Research/Machine Learning/pp/venture-documents/experiment/ahmc venture/test_dpmix_gaussian_cifar.py"
+			],
+			[
+				"ventu",
+				"/Volumes/Universe/Research/Machine Learning/pp/venture-documents/experiment/ahmc venture/venture_dpfa.py"
+			],
+			[
+				"dpf",
+				"/Volumes/Universe/Research/Machine Learning/pp/venture-documents/experiment/ahmc venture/venture_dpfa.py"
+			],
+			[
+				"valu",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/values.cxx"
+			],
+			[
+				"deter",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/sps/deterministic.cxx"
+			],
+			[
+				"vvalues",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/values.cxx"
+			],
+			[
+				"determi",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/sps/deterministic.cxx"
+			],
+			[
+				"de",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/sps/deterministic.cxx"
+			],
+			[
+				"values",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/values.cxx"
+			],
+			[
+				"values.h",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/inc/values.h"
+			],
+			[
+				"value.h",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/inc/values.h"
+			],
+			[
+				"value",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/values.cxx"
+			],
+			[
+				"buil",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/builtin.cxx"
+			],
+			[
+				"venture",
+				"/Volumes/Universe/Research/Machine Learning/pp/venture-documents/experiment/ahmc venture/venture_dpfa.py"
+			],
+			[
+				"ve",
+				"/Volumes/Universe/Research/Machine Learning/pp/venture-documents/experiment/ahmc venture/venture_dpfa.py"
+			],
+			[
+				"egib",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/gkernels/egibbs.cxx"
+			],
+			[
+				"crp",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/sps/crp.cxx"
+			],
+			[
+				"mvn",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/sps/mvn.cxx"
+			],
+			[
+				"vent",
+				"/Volumes/Universe/Research/Machine Learning/pp/venture-documents/experiment/ahmc venture/venture_dpfa.py"
+			],
+			[
+				"egi",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/gkernels/egibbs.cxx"
+			],
+			[
+				"crp.",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/lite/crp.py"
+			],
+			[
+				"eggi",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/gkernels/egibbs.cxx"
+			],
+			[
+				"eg",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/gkernels/egibbs.cxx"
+			],
+			[
+				"egb",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/gkernels/egibbs.cxx"
+			],
+			[
+				"conc",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/concrete_trace.cxx"
+			],
+			[
+				"built",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/lite/builtin.py"
+			],
+			[
+				"e",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/gkernels/egibbs.cxx"
+			],
+			[
+				"dpfa",
+				"/Volumes/Universe/Research/Machine Learning/pp/venture-documents/experiment/ahmc venture/venture_dpfa.py"
+			],
+			[
+				"tet",
+				"/Volumes/Universe/Research/Machine Learning/pp/venture-documents/experiment/ahmc venture/test_dpmix_gaussian.py"
+			],
+			[
+				"ven",
+				"/Volumes/Universe/Research/Machine Learning/pp/venture-documents/experiment/ahmc venture/venture_dpfa.py"
+			],
+			[
+				"infer",
+				"/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/venture/lite/infer.py"
+			],
+			[
+				"in",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/lite/infer.py"
+			],
+			[
+				"vale",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/values.cxx"
+			],
+			[
+				"contin",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/sps/continuous.cxx"
+			],
+			[
+				"hm",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/gkernels/hmc.cxx"
+			],
+			[
+				"va",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/values.cxx"
+			],
+			[
+				"value.py",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/lite/value.py"
+			],
+			[
+				"vlaue",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/values.cxx"
+			],
+			[
+				"detach.py",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/lite/detach.py"
+			],
+			[
+				"detach",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/detach.cxx"
+			],
+			[
+				"deta",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/detach.cxx"
+			],
+			[
+				"det",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/detach.cxx"
+			],
+			[
+				"map",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/gkernels/map.cxx"
+			],
+			[
+				"inf",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/lite/infer.py"
+			],
+			[
+				"dete",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/sps/deterministic.cxx"
+			],
+			[
+				"psp.h",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/inc/psp.h"
+			],
+			[
+				"psps",
+				"/Volumes/Universe/Research/Machine Learning/pp/Venturecxx/backend/new_cxx/src/psp.cxx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

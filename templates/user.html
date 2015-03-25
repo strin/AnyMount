@@ -1,0 +1,86 @@
+<html>
+
+<head>
+  <script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="akjl1mileaft6w1"></script>
+
+  <link href="{{url_for('static', filename='css/iconFont.css') }}" rel="stylesheet">
+  <link href="{{url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+  <link href="{{url_for('static', filename='css/metro-bootstrap.css') }}" rel="stylesheet" >
+  <link href="{{url_for('static', filename='css/metro-bootstrap-responsive.css') }}" rel="stylesheet">
+  <link href="{{url_for('static', filename='css/bootstrap-slider.css') }}" rel="stylesheet">
+  <script src="{{url_for('static', filename='js/jquery/jquery-2.1.3.js') }}"></script>
+  <script src="{{url_for('static', filename='js/jquery/jquery.widget.min.js') }}"></script>
+  <script src="{{url_for('static', filename='js/metro/metro.min.js') }}"></script>
+  <script src="{{url_for('static', filename='js/bootstrap/bootstrap-slider.js') }}"></script>
+  <script>
+    var path = {{url_for('static', filename='')}};
+  </script>
+  <script src="{{url_for('static', filename='js/utils.js') }}"></script>
+</head>
+
+<body>
+
+  <div class="panel panel-default">
+    <!-- Default panel contents -->
+    <div class="panel-heading">User View</div>
+    <div class="panel-body">
+      <p>Choose and mount resources.</p>
+    </div>
+    <!-- Table -->
+    <table class="table">
+      <thead>
+        <tr>
+          <td>Cloud</td>
+          <td>From</td>
+          <td>To</td>
+          <td>Mounted</td>
+        </tr>
+      </thead>
+      <tbody>
+        {%for id in range(mounts|count)%}
+        <tr>
+          <td>
+            <script>write_cloud_logo(path, "dropbox")</script>
+          </td>
+          <td>
+            <ul>
+            {%for i in range(mounts[id].names|count)%}
+              <li><a href="{{mounts[id].links[i]}}">{{mounts[id].names[i]}}</a></li>
+            {%endfor%}
+            </ul>
+          </td>
+          <td>
+            {{mounts[id].path}}
+          </td>
+          <td>
+            {%if mounts[id].selected == true%}
+            <input id="checkmount{{id}}" type="checkbox" checked="checked" onchange="check_mount(this, {{id}})"></input>
+            {%else%}
+            <input id="checkmount{{id}}" type="checkbox" onchange="check_mount(this, {{id}})"></input>
+            {%endif%}
+          </td>
+        </tr>
+        {%endfor%}
+      </tbody>
+    </table>
+  </div>
+  <br>
+  <a class="btn btn-success" type="button" href="javascript:download();">Download</a>
+  <script>
+  function check_mount(cb, id) {
+    $.post("/check_mount", {id: JSON.stringify(id), 
+      checked: JSON.stringify(cb.checked)})
+    .done(function(data) {
+    });
+  }
+
+  function download() {
+    $.post('/download').done(function(data) {
+      console.log('download ' + data.status);
+    });
+  }
+  </script>
+</body>
+
+
+</html>

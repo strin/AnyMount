@@ -26,7 +26,7 @@ Dependency
 ----------
 
 ```
-pip install dropbox
+pip install dropbox, urllib, flask, shelvedb
 ```
 
 Q & A

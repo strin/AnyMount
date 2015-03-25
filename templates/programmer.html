@@ -12,45 +12,18 @@
   <script src="{{url_for('static', filename='js/jquery/jquery.widget.min.js') }}"></script>
   <script src="{{url_for('static', filename='js/metro/metro.min.js') }}"></script>
   <script src="{{url_for('static', filename='js/bootstrap/bootstrap-slider.js') }}"></script>
+  <script>
+    var path = {{url_for('static', filename='')}};
+  </script>
+  <script src="{{url_for('static', filename='js/utils.js') }}"></script>
 </head>
 
 <body>
-  <script>
-  // basic functions.
-  function write_cloud_logo(name) {
-    if(name == "dropbox") {
-      document.write("<img src={{url_for('static', filename='img/dropbox.png')}} width='32px'></img>");
-    }
-  }
-
-  function toggle_element(id) {
-    if($(id).css('display') == 'none') {
-      toggle_on(id);
-    }else{
-      toggle_off(id);
-    }
-  }
-
-  function toggle_on(id) {
-    if($(id).css('display') == 'none') {
-      $(id).slideDown('slow');
-      // $(id).css('display', 'block');
-    }
-  }
-
-  function toggle_off(id) {
-    if($(id).css('display') == 'block') {
-      $(id).slideUp('slow');
-      // $(id).css('display', 'none');
-    }
-  }
-  </script>
-
   <div class="panel panel-default">
     <!-- Default panel contents -->
     <div class="panel-heading">Programer View</div>
     <div class="panel-body">
-      <p>Choose and mount resources.</p>
+      <p>Link resources.</p>
     </div>
     <!-- Table -->
     <table class="table">
@@ -66,7 +39,7 @@
         {%for id in range(mounts|count)%}
         <tr>
           <td>
-            <script>write_cloud_logo("dropbox")</script>
+            <script>write_cloud_logo(path, "dropbox")</script>
           </td>
           <td>
             <ul>
@@ -165,7 +138,6 @@
 
     function delete_mount(i) {
       $.post('/delete_mount', {id: JSON.stringify(i)}).done(function(data) {
-        console.log(data);
         if(data.status == 'ok') {
           location.reload();
         }

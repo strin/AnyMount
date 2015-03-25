@@ -29,6 +29,9 @@ class ShelveDB:
   def unmount(self, id):
     self.mounts.remove(self.mounts[id])
 
+  def check(self, id, checked):
+    self.mounts[id].selected = checked
+
   def load(self):
     database = shelve.open(self.path)
     if not database.has_key('mounts'):
